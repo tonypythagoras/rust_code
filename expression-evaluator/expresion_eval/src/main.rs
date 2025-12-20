@@ -1,5 +1,6 @@
 
-
+//The arithmetical operations we support represented as enum
+// With debug formating {:?}
 #[derive(Debug)]
 enum Optor {
     Add,
@@ -7,6 +8,10 @@ enum Optor {
     Mul,
     Div,
 }
+
+//This enum represents expression. And expression is recursive
+//The expression has left and right separated by an Operator
+// The simplest expression is a value which is immediately retrurned
 #[derive(Debug)]
 enum Expr {
 
@@ -14,6 +19,9 @@ enum Expr {
     Value(i64),
 }
 
+//expression evaluator
+//It can go left or right
+//returns on encountering a value
 fn eval(e:Expr)->i64{
     match e {
         Expr::Op { op, left, right }=>{
