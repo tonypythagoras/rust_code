@@ -60,7 +60,7 @@ assert_eq!(
 eval(Expr::Op {op: Optor::Div,left: Box::new(Expr::Value(99)),right: Box::new(Expr::Value(0)),}),Err(DivideByZeroError));
 }
 
-//Test okay condition. 
+//Test okay condition. Normal arithmetics
 #[test]
 fn test_ok() {
 let expr = Expr::Op {op: Optor::Sub,left: Box::new(Expr::Value(20)),right: Box::new(Expr::Value(10)),};
