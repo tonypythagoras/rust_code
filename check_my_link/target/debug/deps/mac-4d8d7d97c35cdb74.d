@@ -1,0 +1,12 @@
+/Users/macbook/Desktop/github1/rust_code/check_my_link/target/debug/deps/mac-4d8d7d97c35cdb74.d: /Users/macbook/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mac-0.1.1/src/lib.rs /Users/macbook/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mac-0.1.1/src/test.rs /Users/macbook/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mac-0.1.1/src/mem.rs /Users/macbook/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mac-0.1.1/src/format.rs /Users/macbook/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mac-0.1.1/src/syntax_ext.rs /Users/macbook/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mac-0.1.1/src/matches.rs /Users/macbook/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mac-0.1.1/src/inspect.rs /Users/macbook/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mac-0.1.1/src/cfg.rs
+
+/Users/macbook/Desktop/github1/rust_code/check_my_link/target/debug/deps/libmac-4d8d7d97c35cdb74.rmeta: /Users/macbook/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mac-0.1.1/src/lib.rs /Users/macbook/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mac-0.1.1/src/test.rs /Users/macbook/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mac-0.1.1/src/mem.rs /Users/macbook/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mac-0.1.1/src/format.rs /Users/macbook/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mac-0.1.1/src/syntax_ext.rs /Users/macbook/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mac-0.1.1/src/matches.rs /Users/macbook/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mac-0.1.1/src/inspect.rs /Users/macbook/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mac-0.1.1/src/cfg.rs
+
+/Users/macbook/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mac-0.1.1/src/lib.rs:
+/Users/macbook/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mac-0.1.1/src/test.rs:
+/Users/macbook/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mac-0.1.1/src/mem.rs:
+/Users/macbook/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mac-0.1.1/src/format.rs:
+/Users/macbook/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mac-0.1.1/src/syntax_ext.rs:
+/Users/macbook/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mac-0.1.1/src/matches.rs:
+/Users/macbook/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mac-0.1.1/src/inspect.rs:
+/Users/macbook/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mac-0.1.1/src/cfg.rs:
